@@ -2,3 +2,4 @@ streamlit==1.43.2
 pypickle 
 scikit-learn==1.2.2
 TIME-python
+numpy==1.23.0
